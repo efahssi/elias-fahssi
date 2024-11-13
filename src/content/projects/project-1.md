@@ -19,4 +19,4 @@ _Cotton Nero A.x._ is a 14th century manuscript in the <a href='https://digitalc
 
 1. Use digital technology to make the manuscript more accessible to researchers and the public
 2. Transcribe every letter of the manuscript using markup language (XML + XSLT)
-3. Publish definitive critical ditions informed by detailed analysis of the manuscript (aided by multispectral photography)
+3. Publish scholarly editions informed by deep analysis of the manuscript (aided by multispectral photography)

@@ -38,8 +38,8 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'elias.fahssi',
-    subtitle: 'reading, writing, marketing',
+    title: 'Elias',
+    subtitle: 'reading, writing, marketing.',
     description: 'Digital site for Elias Fahssi',
     image: {
         src: '/dante-preview.jpg',
@@ -54,11 +54,11 @@ const siteConfig: SiteConfig = {
             text: 'Projects',
             href: '/projects'
         },
-        {
+        /*{
             text: 'Blog',
             href: '/blog'
         },
-        /*{
+        {
             text: 'Tags',
             href: '/tags'
         }*/
@@ -89,8 +89,8 @@ const siteConfig: SiteConfig = {
 
     ],
     hero: {
-        title: 'Hi There!',
-        text: "I'm **Elias**, a product person and marketer, dedicated to saving the world from bad writing and strategy. My approach is based on intuition, conducting just enough research, and working backwards to engineer a winning outcome. I have a profound appreciation for design, humanities, and the power of language. Feel free to explore some of my professional endeavors on <a href='https://www.linkedin.com/in/efahssi/' target='_blank'>LinkedIn</a>.",
+        title: 'Hello & Welcome to My Corner of the Web',
+        text: "I'm **Elias Fahssi**, a product person and marketer, dedicated to saving the world from bad strategy. My approach is based on intuition, listening, conducting just enough research, and working backwards to engineer a winning outcome. I have a profound appreciation for design, humanities, and the power of language. Feel free to explore some of my professional endeavors on <a href='https://www.linkedin.com/in/efahssi/' target='_blank'>LinkedIn</a>.",
         /* image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
