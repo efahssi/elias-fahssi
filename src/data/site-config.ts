@@ -54,11 +54,11 @@ const siteConfig: SiteConfig = {
             text: 'Projects',
             href: '/projects'
         },
-        /*{
-            text: 'Blog',
+        {
+            text: 'Writing',
             href: '/blog'
         },
-        {
+        /*{
             text: 'Tags',
             href: '/tags'
         }*/
@@ -90,7 +90,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hello & Welcome to My Corner of the Web',
-        text: "I'm **Elias Fahssi**, a product person and marketer, dedicated to saving the world from bad strategy. My approach is based on intuition, listening, conducting just enough research, and working backwards to engineer a winning outcome. I have a profound appreciation for design, humanities, and the power of language. Feel free to explore some of my professional endeavors on <a href='https://www.linkedin.com/in/efahssi/' target='_blank'>LinkedIn</a>.",
+        text: "I'm **Elias Fahssi**, a product person and marketer, dedicated to saving the world from bad writing and strategy. My approach is based on intuition, listening, doing *just* enough research, and working backwards to engineer a winning outcome. I have a profound appreciation for design, humanities, and the power of language. Feel free to explore some of my professional endeavors on <a href='https://www.linkedin.com/in/efahssi/' target='_blank'>LinkedIn</a>.",
         /* image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'

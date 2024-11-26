@@ -5,7 +5,7 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://efahssi.github.io/',
+    site: 'https://elias.fahssi.ca/',
     integrations: [
         mdx(),
         sitemap(),

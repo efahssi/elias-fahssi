@@ -1,6 +1,6 @@
 ---
-title: 'DIRTT - Product Renaming and Growth Strategy'
-description: Repositioning and soft relaunch of a cabinet and storage product line.
+title: 'Portfolio Renaming and Growth Strategy'
+description: Created a 5-year growth plan based on product enhancements, competitive positioning, and updated pricing.
 publishDate: 'Jan 01 2020'
 isFeatured: true
 seo:
