@@ -60,7 +60,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Resume',
-            href: '/resume'
+            href: '/resume/index.html'
         }
     ],
     footerNavLinks: [
