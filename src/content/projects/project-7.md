@@ -1,6 +1,6 @@
 ---
 title: Productizing Microsoft Copilot
-description: CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
+description: Designed and launched a Copilot product offering structured for Enterprise and SMB.
 publishDate: 'Jan 10 2024'
 isFeatured: true
 seo:
@@ -8,18 +8,16 @@ seo:
     src: 'project-7.jpg'
 ---
 
-![Project preview](/project-7.jpg)
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+![Project preview](/project-7.png)
 
 **Project Overview:**
-CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios. By providing real-time market data, analytics, and portfolio tracking, the dashboard offers a seamless experience for users to monitor and enhance their cryptocurrency investments.
+tktktk
 
 ## Objectives
 
-1. Develop a user-friendly and feature-rich dashboard that consolidates real-time data from various cryptocurrency exchanges.
-2. Provide tools for users to analyze market trends, track their portfolio performance, and make informed investment decisions.
-3. Create a secure and efficient platform that ensures users have a holistic view of their cryptocurrency holdings.
+1. tk
+2. tk
+3. tk
 
 ## Features
 

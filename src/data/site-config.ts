@@ -54,10 +54,10 @@ const siteConfig: SiteConfig = {
             text: 'Projects',
             href: '/projects'
         },
-        {
+        /*{
             text: 'Writing',
             href: '/blog'
-        },
+        },*/
         {
             text: 'Resume',
             href: '/resume',
@@ -107,8 +107,8 @@ const siteConfig: SiteConfig = {
         text: 'One update per week. All the latest posts directly in your inbox.',
         formUrl: '#'
     },
-    postsPerPage: 8,
-    projectsPerPage: 8
+    postsPerPage: 5,
+    projectsPerPage: 5
 };
 
 

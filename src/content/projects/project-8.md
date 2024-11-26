@@ -1,15 +1,15 @@
 ---
-title: 'Personal Website'
-description: Created elias.fahssi.ca while learning the basics of Git and Astro. Astro is a static site generator that uses markdown (.md) files to build websites, which I host and deploy using GitHub Pages.
-publishDate: 'Jan 09 2020'
-isFeatured: false
+title: 'Website Redesign for Product-Led Growth'
+description: Led the design and launch of a corporate SaaS website to support self-serve signup.
+publishDate: 'Jan 11 2024'
+isFeatured: true
 seo:
   image:
-    src: '/project-5.png'
+    src: '/project-8.png'
     alt: Project preview
 ---
 
-![Project preview](/project-5.png)
+![Project preview](/project-8.png)
 
 ## Project Overview
 

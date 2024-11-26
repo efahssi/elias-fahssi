@@ -2,7 +2,7 @@
 title: 'Product Architecture'
 description: DIRTT launched a new public website with a refreshed brand and visual identity. I developed the information architecture and menu navigation for 11 core products and 4 design integrations.
 publishDate: 'Jan 02 2020'
-isFeatured: true
+isFeatured: false
 seo:
   image:
     src: '/project-3.png'

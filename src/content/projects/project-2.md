@@ -2,7 +2,7 @@
 title: 'Portfolio Renaming and Growth Strategy'
 description: Created a 5-year growth plan based on product enhancements, competitive positioning, and updated pricing.
 publishDate: 'Jan 01 2020'
-isFeatured: true
+isFeatured: false
 seo:
   image:
     src: '/project-2.png'
