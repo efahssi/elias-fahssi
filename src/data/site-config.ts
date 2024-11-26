@@ -58,10 +58,10 @@ const siteConfig: SiteConfig = {
             text: 'Writing',
             href: '/blog'
         },
-        /*{
-            text: 'Tags',
-            href: '/tags'
-        }*/
+        {
+            text: 'Resume',
+            href: '/resume'
+        }
     ],
     footerNavLinks: [
         {
