@@ -60,7 +60,8 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Resume',
-            href: '/resume'
+            href: '/resume',
+            target: '_blank'
         }
     ],
     footerNavLinks: [
